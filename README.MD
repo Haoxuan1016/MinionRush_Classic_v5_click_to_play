@@ -4,7 +4,9 @@ A repack of the classic **Minion Rush v5.7** that bundles all game data directly
 
 ## Download
 
-The full APK is available on the **[Releases](../../releases)** page. Download the latest release, install it on your device, then turn off internet before launching.
+The full **~600 MB** APK is available on the **[Releases](https://github.com/Haoxuan1016/MinionRush_Classic_v5_click_to_play/releases)** page (recommended), or directly in this repository as [`MinionRush-5.7.0-offline-tokens.apk`](MinionRush-5.7.0-offline-tokens.apk) via Git LFS.
+
+Download, install on your device, then turn off internet before launching.
 
 ## About
 
